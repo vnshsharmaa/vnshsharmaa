@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vnshsharmaa
+- 👋 Hi, I’m Vansh Sharma
 - 👀 I’m interested in Developing softwares
 - 🌱 I’m currently pursuing BCA at quantum university
 - 💞️ I’m looking for a frontend developer job
